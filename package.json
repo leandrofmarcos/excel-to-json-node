@@ -1,11 +1,19 @@
 {
-  "name": "excel-to-json",
+  "name": "@scope-name/excel-to-json",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandrofmarcos/excel-to-json-node.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leandrofmarcos/excel-to-json-node/issues"
+  },
+  "homepage": "https://github.com/leandrofmarcos/excel-to-json-node#readme"
 }
